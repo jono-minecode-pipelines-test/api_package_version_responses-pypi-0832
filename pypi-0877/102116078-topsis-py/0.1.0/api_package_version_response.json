@@ -1,0 +1,96 @@
+{
+    "info": {
+        "author": "Dhruv",
+        "author_email": "dkikan_be21@thapar.edu",
+        "bugtrack_url": null,
+        "classifiers": [],
+        "description": "# Topsis-Py\r\n\r\nImplementation of Topsis in Python by rno. 102116078\r\n\r\n## Installation\r\n\r\n```bash\r\npip install topsis-py\r\n```\r\n## Usage\r\n\r\n```bash\r\ntopsis <InputDataFile> <Weights> <Impacts> <ResultFileName>\r\n```\r\n\r\nWhere\r\n```\r\n<InputDataFile>: Path to the input CSV file.\r\n\r\n<Weights>: Comma-separated weights for each criterion.\r\n\r\n<Impacts>: Comma-separated impacts ('+' for maximization, '-' for minimization).\r\n\r\n<ResultFileName>: Name of the file to save the results.\r\n```\r\n\r\n# Example\r\n```bash\r\npython topsis input.csv '1,1,2,1' '+,+,-,+' results.csv\r\n```\r\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "",
+        "keywords": "",
+        "license": "",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "102116078-topsis-py",
+        "package_url": "https://pypi.org/project/102116078-topsis-py/",
+        "platform": null,
+        "project_url": "https://pypi.org/project/102116078-topsis-py/",
+        "project_urls": null,
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/102116078-topsis-py/0.1.0/",
+        "requires_dist": [
+            "numpy",
+            "pandas"
+        ],
+        "requires_python": "",
+        "summary": "Implementation of Topsis in Python",
+        "version": "0.1.0",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 21728398,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "102116078"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "f7d004c586221be599858cf7b9cc6dbb11be1e6e88992a1f3b5c9e2aa4df7403",
+                "md5": "bf1fb15343e45fff09c816441d796ded",
+                "sha256": "8df0225db1de37d167b1e4252ec9981059a0daebcafb9be69e14a8a5f1f0c6f2"
+            },
+            "downloads": -1,
+            "filename": "102116078_topsis_py-0.1.0-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "bf1fb15343e45fff09c816441d796ded",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": null,
+            "size": 3460,
+            "upload_time": "2024-02-04T06:31:52",
+            "upload_time_iso_8601": "2024-02-04T06:31:52.015087Z",
+            "url": "https://files.pythonhosted.org/packages/f7/d0/04c586221be599858cf7b9cc6dbb11be1e6e88992a1f3b5c9e2aa4df7403/102116078_topsis_py-0.1.0-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "e4a9e4d51747f8a7a2876d1e3fef9b93f4b04b796e789e942e0e65f1d2f12c90",
+                "md5": "d6c83225037b1d074b2a200ef5543dd9",
+                "sha256": "b2f152de94f36d6c198fdc85cb060942653fcbf6197bf27ff6c72cb99b1c110c"
+            },
+            "downloads": -1,
+            "filename": "102116078_topsis-py-0.1.0.tar.gz",
+            "has_sig": false,
+            "md5_digest": "d6c83225037b1d074b2a200ef5543dd9",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": null,
+            "size": 2885,
+            "upload_time": "2024-02-04T06:31:55",
+            "upload_time_iso_8601": "2024-02-04T06:31:55.270906Z",
+            "url": "https://files.pythonhosted.org/packages/e4/a9/e4d51747f8a7a2876d1e3fef9b93f4b04b796e789e942e0e65f1d2f12c90/102116078_topsis-py-0.1.0.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
